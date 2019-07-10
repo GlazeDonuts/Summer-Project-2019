@@ -40,9 +40,9 @@ The optimizer used was <b>Adam Optimizer</b>.
 The model was trained using PyTorch to speed up the training time. It used the MNIST Dataset as before. <br>
 The trained model was then stored to a local directory. <br><br>
 
-<b><ins>->Digit Pad</b></ins> is a model developed to facilitate the user in drawing white digits onto a Black Drawing Pad of <b>128x128pi</b> by using the mouse events available in OpenCV and then resizing the image to <b>28x28pi</b> and passing it to the trained model for classification. <br><br>
+<b><ins>->Digit Pad</b></ins> is a model developed to facilitate the user in drawing white digits onto a Black Drawing Pad of <b>128x128pi</b> by using the mouse events available in OpenCV and then resizing the image to <b>28x28pi</b> and passing it to the trained CNN model for classification. <br><br>
 
-<b><ins>->Real Time Digit Classifier</b></ins> involves implementing the basics of Image Processing using OpenCV to capture and process the video input by applying <b>Thresholding using HSV Color Space</b> and <b>Centroid Tracking</b> to obtain the digit drawnn by the user. This is rescaled and drawn on a black and white image of suitable size (128x128pi) which is then resized to <b>28x28pi</b> and passed to the trained model to obtain a prediction. <br><br><br>
+<b><ins>->Real Time Digit Classifier</b></ins> involves implementing the basics of Image Processing using OpenCV to capture and process the video input by applying <b>Thresholding using HSV Color Space</b> and <b>Centroid Tracking</b> to obtain the digit drawnn by the user. This is rescaled and drawn on a black and white image of suitable size (128x128pi) which is then resized to <b>28x28pi</b> and passed to the trained CNN model to obtain a prediction. <br><br><br>
 <br>
 *References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> provided*
 
