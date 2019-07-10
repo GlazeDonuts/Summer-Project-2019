@@ -1,6 +1,6 @@
 <h1 align = "center"><ins>Summer Project 2019</ins></h1>
 
-![Alt Text](/Demo/ezgif.com-crop.gif)
+![Alt Text](https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos/ezgif.com-crop.gif)
 
 <h3 align = "center"><ins><b><u>Motivation</b></ins></h3>
 <p align = "center">
