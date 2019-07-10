@@ -1,4 +1,5 @@
 <h1 align = "center"><ins>Summer Project 2019</ins></h1>
+
 ![Alt Text](https://giphy.com/gifs/IhVTymNfNKX7vobzwp.gif)
 
 <h3 align = "center"><ins><b><u>Motivation</b></ins></h3>
