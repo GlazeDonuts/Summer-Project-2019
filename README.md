@@ -1,7 +1,7 @@
 <h1 align = "center"><ins>Summer Project 2019</ins></h1>
-
-![Alt Text](https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos/ezgif.com-crop.gif)
-
+<p align = "center">
+ <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos/ezgif.com-crop.gif">
+   </p>
 <h3 align = "center"><ins><b><u>Motivation</b></ins></h3>
 <p align = "center">
 To develop from scratch, a Real Time Digit Recognizer using elementary concepts of Deep Learning and Convolutional Neural Networks along with a  tinge of Image Processing and Object Tracking.
