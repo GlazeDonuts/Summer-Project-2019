@@ -53,7 +53,7 @@ The optimizer used was <b>Adam Optimizer</b>.
 The model was trained using PyTorch to speed up the training time. It used the MNIST Dataset as before. <br>
 The trained model was then stored to a local directory.
 <p align = "center">
- The image below shows the Learning Curves for the Convolutional Nueral Network with <br><b>Learning Rate = 0.3<br>Batch Size = 128<br>Number Of Epochs = 5</b><br>
+ The image below shows the Learning Curves for the Convolutional Nueral Network with <br><b>Learning Rate = 0.001<br>Batch Size = 128<br>Number Of Epochs = 5</b><br>
  <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/CNN.png">
    </p> <br><br>
 
