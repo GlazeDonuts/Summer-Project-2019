@@ -18,7 +18,9 @@ To develop from scratch, a Real Time Digit Recognizer using elementary concepts 
 
 <b><ins>->A Binary Classifier</b></ins> can be used as a basic project to gain intuitions and get things going. It was implemented using a Single Node archtecture and a Single Hidden Layer Architecture and classifies the selection of students to an institute depending on the marks in 2 exams from this [Data Set](./Data Sets/bindata.csv). <br><br>
 
-<b><ins>->Digit Classifier from Scratch</b></ins> is a Multi Layer Model written from scratch using basics of NumPy and was traied using the [MNIST Dataset](./Data Sets/mnist.pkl.gz). It contains a single hidden layer with <b>200 Nodes</b>. <br><br>
+<b><ins>->Digit Classifier from Scratch</b></ins> is implemented using 2 approaches, code for both was written from scratch using basics of NumPy and was traied using the [MNIST Dataset](./Data Sets/mnist.pkl.gz). <br>
+The First being a <b>Single Layer Perceptron</b> with only <b>10 Nodes using SoftMax Activation</b> and <b>Gradient Descent Optimization</b> and <b>Gaussian Initialization (Var = 1)</b> of weights. <br>
+The Second is a <b>Multi Layer Perceptron</b> containing a single hidden layer with <b>200 Nodes</b> using <b>ReLU Activation</b> and an Output Layer with <b>10 Nodes</b>. The optimization algorithm used was <b>Gradient Descent</b> and the weights were initialized using a <b>Gaussian Distribution (Var = 1)</b>. <br><br>
 
 <b><ins>->The Convolutional Approach</b></ins> involves training a Convolutional Neural Network with <b>2 Convolutional Layers</b>, both using:<br>
 Kernel Size = <b>5</b><br>
