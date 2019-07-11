@@ -63,11 +63,9 @@ The trained model was then stored to a local directory.
    </p> <br><br>
 
 <b><ins>->Real Time Digit Classifier</b></ins> involves implementing the basics of Image Processing using OpenCV to capture and process the video input by applying <b>Thresholding using HSV Color Space</b> and <b>Centroid Tracking</b> to obtain the digit drawnn by the user. This is rescaled and drawn on a black and white image of suitable size (128x128pi) which is then resized to <b>28x28pi</b> and passed to the trained CNN model to obtain a prediction.
-<p align = "center">
- The <a href = "/home/khurshed2504/Downloads/Real Time Full Demo.mp4">Full Demo</a> has been uploaded too.
-</p>
+*The Full Demo has been uploaded<a href = "/home/khurshed2504/Downloads/Real Time Full Demo.mp4">here.</a>
 <br><br><br>
 <br>
-*References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> and further specifications can be found on the <a href = "https://ivdigits.weebly.com/">Project Website</a>.*
+References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> and further specifications can be found on the <a href = "https://ivdigits.weebly.com/">Project Website</a>.*
 
 
