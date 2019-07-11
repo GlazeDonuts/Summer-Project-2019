@@ -57,8 +57,8 @@ The trained model was then stored to a local directory.
 
 <b><ins>->Digit Pad</b></ins> is a model developed to facilitate the user in drawing white digits onto a Black Drawing Pad of <b>128x128pi</b> by using the mouse events available in OpenCV and then resizing the image to <b>28x28pi</b> and passing it to the trained CNN model for classification.
 <p align = "center">
- <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/Real%20Time%20Half%20Demo.gif">
-   </p>
+ <img width = "600" height = "270" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/Write%20Pad.gif">
+   </p> <br><br>
 
 <b><ins>->Real Time Digit Classifier</b></ins> involves implementing the basics of Image Processing using OpenCV to capture and process the video input by applying <b>Thresholding using HSV Color Space</b> and <b>Centroid Tracking</b> to obtain the digit drawnn by the user. This is rescaled and drawn on a black and white image of suitable size (128x128pi) which is then resized to <b>28x28pi</b> and passed to the trained CNN model to obtain a prediction. <br><br><br>
 <br>
