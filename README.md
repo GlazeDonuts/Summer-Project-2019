@@ -1,6 +1,6 @@
 <h1 align = "center"><ins>Summer Project 2019</ins></h1>
 <p align = "center">
- <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/Half_demo.gif">
+ <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/Real%20Time%20Half%20Demo.gif">
    </p>
 <h3 align = "center"><ins><b><u>Motivation</b></ins></h3>
 <p align = "center">
