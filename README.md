@@ -21,13 +21,13 @@ To develop from scratch, a Real Time Digit Recognizer using elementary concepts 
 <b><ins>->Digit Classifier from Scratch</b></ins> is implemented using 2 approaches, code for both was written from scratch using basics of NumPy and was traied using the [MNIST Dataset](./Data Sets/mnist.pkl.gz). <br>
 The First being a <b>Single Layer Perceptron</b> with only <b>10 Nodes using SoftMax Activation</b> and <b>Gradient Descent Optimization</b> and <b>Gaussian Initialization (Var = 1)</b> of weights.
 <p align = "center">
- The image below shows the Learning Curves for the Single Layer Perceptron with Learning Rate = 0.1
+ The image below shows the Learning Curves for the Single Layer Perceptron with <b>Learning Rate = 0.1</b>
  <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/SingleLayer.png">
    </p>
  
 The Second is a <b>Multi Layer Perceptron</b> containing a single hidden layer with <b>200 Nodes</b> using <b>ReLU Activation</b> and an Output Layer with <b>10 Nodes</b> using <b>SoftMax Activation</b>. The optimization algorithm used was <b>Gradient Descent</b> and the weights were initialized using a <b>Gaussian Distribution (Var = 1)</b>. <br>
 <p align = "center">
- The image below shows the Learning Curve for the Multi Layer Perceptron with Learning Rate = 0.3
+ The image below shows the Learning Curves for the Multi Layer Perceptron with <b>Learning Rate = 0.3</b>
  <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/MultiLayer.png">
    </p> <br><br>
    
@@ -49,7 +49,11 @@ Activation = <b>ReLU</b>
 Finally, the Output Layer which implements <b>SoftMax Activation using 10 Nodes</b>.<br>
 The optimizer used was <b>Adam Optimizer</b>.
 The model was trained using PyTorch to speed up the training time. It used the MNIST Dataset as before. <br>
-The trained model was then stored to a local directory. <br><br>
+The trained model was then stored to a local directory.
+<p align = "center">
+ The image below shows the Learning Curves for the Convolutional Nueral Network with <br><b>Learning Rate = 0.3<br>Batch Size = 128<br>Number Of Epochs = 5</b><br>
+ <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/CNN.png">
+   </p> <br><br>
 
 <b><ins>->Digit Pad</b></ins> is a model developed to facilitate the user in drawing white digits onto a Black Drawing Pad of <b>128x128pi</b> by using the mouse events available in OpenCV and then resizing the image to <b>28x28pi</b> and passing it to the trained CNN model for classification. <br><br>
 
