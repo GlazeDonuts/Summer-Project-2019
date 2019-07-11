@@ -1,6 +1,6 @@
 <h1 align = "center"><ins>Summer Project 2019</ins></h1>
 <p align = "center">
- <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos/ezgif.com-crop.gif">
+ <img width = "460" height = "300" src = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/Half_demo.gif">
    </p>
 <h3 align = "center"><ins><b><u>Motivation</b></ins></h3>
 <p align = "center">
@@ -16,7 +16,7 @@ To develop from scratch, a Real Time Digit Recognizer using elementary concepts 
 
 <h3 align = "center"><ins>Models and Frameworks</ins></h3> <br>
 
-<b><ins>->A Binary Classifier</b></ins> can be used as a basic project to gain intuitions and get things going. It was implemented using a Single Node archtecture and a Single Hidden Layer Architecture and classifies the selection of students to an institute depending on the marks in 2 exams from this [Data Set](https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/NumPy/Data_Sets/bindata.csv). <br><br>
+<b><ins>->A Binary Classifier</b></ins> can be used as a basic project to gain intuitions and get things going. It was implemented using a Single Node archtecture and a Single Hidden Layer Architecture and classifies the selection of students to an institute depending on the marks in 2 exams from this [Data Set](./Data_Sets/bindata.csv). <br><br>
 
 <b><ins>->Digit Classifier from Scratch</b></ins> is a Multi Layer Model written from scratch using basics of NumPy and was traied using the [MNIST Dataset](https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/NumPy/Data_Sets/mnist.pkl.gz). It contains a single hidden layer with <b>200 Nodes</b>. <br><br>
 
