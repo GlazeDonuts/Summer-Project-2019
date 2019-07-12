@@ -66,6 +66,6 @@ The trained model was then stored to a local directory.
 *The Full Demo has been uploaded <a href = "https://github.com/GlazeDonuts/Summer-Project-2019/blob/master/Demos%20and%20Plots/Real%20Time%20Full%20Demo.mp4">here.</a>
 <br><br><br>
 <br>
-References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> and further specifications with results can be found on the <a href = "https://ivdigits.weebly.com/">Project Website</a>.*
+References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> provided. <br>Further specifications with results can be found on the <a href = "https://ivdigits.weebly.com/">Project Website</a>.*
 
 
